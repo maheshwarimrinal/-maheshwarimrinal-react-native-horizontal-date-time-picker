@@ -1,0 +1,27 @@
+{
+  "name": "@maheshwarimrinal/react-native-horizontal-date-time-picker",
+  "version": "0.0.1",
+  "description": "React native horizontal date time picker",
+  "main": "src/index.js",
+  "repository": "https://github.com/maheshwarimrinal/react-native-horizontal-date-time-picker.git",
+  "author": "Mrinal Maheshwari",
+  "license": "MIT",
+  "keywords": [
+    "react-native",
+    "horizontal",
+    "date picker",
+    "time picker"
+  ],
+  "dependencies": {
+    "moment": "^2.29.4",
+    "prop-types": "^15.8.1"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-native": "^0.70.6"
+  },
+  "devDependencies": {
+    "babel-jest": "^29.3.1",
+    "jest": "^29.3.1"
+  }
+}
