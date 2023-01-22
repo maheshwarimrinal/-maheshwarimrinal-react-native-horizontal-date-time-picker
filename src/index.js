@@ -1,1 +1,3 @@
-export { default as '@maheshwarimrinal/HorizontalDateTimerPicker' } from './HorizontalDatePicker';
+import HorizontalDatePicker from './HorizontalDatePicker';
+
+export { HorizontalDatePicker };
